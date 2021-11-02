@@ -1,0 +1,520 @@
+City,Region,Country,InternetPrice
+Tirana,Tirana County,Albania,21.16396017
+Algiers,Algiers Province,Algeria,45.17826111
+Buenos Aires,,Argentina,30.60242484
+La Plata,Buenos Aires Province,Argentina,40.29623663
+Cordoba,Cordoba Province,Argentina,25.15875902
+Mendoza,Mendoza,Argentina,27.03039839
+Rosario,Santa Fe Province,Argentina,23.97871465
+Yerevan,,Armenia,17.68519436
+Canberra,Australian Capital Territory,Australia,50.85753781
+Sydney,,Australia,49.96825126
+Melbourne,Victoria,Australia,47.92140104
+Perth,Western Australia,Australia,48.58932191
+Adelaide,South Australia,Australia,49.34211018
+Brisbane,Queensland,Australia,51.69241858
+Hobart,Tasmania,Australia,57.82103449
+Newcastle,New South Wales,Australia,57.09822978
+Innsbruck,Tyrol,Austria,36.79845083
+Vienna,,Austria,37.70275733
+Graz,Styria,Austria,43.95955943
+Linz,Upper Austria,Austria,33.56810596
+Villach,Carinthia,Austria,21.29135606
+Baku,,Azerbaijan,18.32353769
+Manama,Capital Governorate,Bahrain,60.52030769
+Dhaka,Dhaka Division,Bangladesh,28.58915051
+Minsk,,Belarus,12.04066921
+Brussels,,Belgium,48.85423092
+Ghent,Flemish Region,Belgium,49.87897668
+Leuven,Flemish Region,Belgium,52.99641272
+Antwerp,Flemish Region,Belgium,54.13622527
+La Paz,La Paz Department,Bolivia,49.68660367
+Sarajevo,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,22.83886527
+Banja Luka,Republika Srpska,Bosnia and Herzegovina,22.78674337
+Gaborone,South-East District,Botswana,73.68853118
+Sao Paulo,Sao Paulo,Brazil,21.51628007
+Brasilia,Federal District,Brazil,21.22371284
+Curitiba,Parana,Brazil,23.04125756
+Rio de Janeiro,Rio de Janeiro,Brazil,21.64221266
+Salvador,Bahia,Brazil,18.78803174
+Manaus,Amazonas,Brazil,23.67977467
+Porto Alegre,Rio Grande do Sul,Brazil,21.84459213
+Belo Horizonte,Minas Gerais,Brazil,22.45590421
+Fortaleza,Ceara,Brazil,17.8688826
+Recife,Pernambuco,Brazil,20.73538163
+Santos,Sao Paulo,Brazil,22.05957956
+Goiania,Goias,Brazil,23.20795961
+Natal,Rio Grande do Norte,Brazil,14.95564716
+Florianopolis,Santa Catarina,Brazil,20.33308206
+Joinville,Santa Catarina,Brazil,22.89255097
+Joao Pessoa,Paraiba,Brazil,16.8461342
+Campo Grande,Mato Grosso do Sul,Brazil,28.83667992
+Campinas,Sao Paulo,Brazil,22.99430751
+Niteroi,Rio de Janeiro,Brazil,32.76575173
+Sao Jose dos Campos,Sao Paulo,Brazil,21.95629212
+Bandar Seri Begawan,Brunei-Muara District,Brunei,111.4275333
+Plovdiv,Plovdiv region,Bulgaria,13.3587372
+Sofia,Sofia City Province,Bulgaria,12.02069494
+Varna,Varna Province,Bulgaria,11.8323078
+Burgas,Burgas Province,Bulgaria,10.44653249
+Veliko Tarnovo,Veliko Tarnovo Province,Bulgaria,11.34789049
+Phnom Penh,,Cambodia,30.14285714
+Toronto,Ontario,Canada,52.46968835
+Montreal,Quebec,Canada,46.05455709
+Ottawa,Ontario,Canada,48.03287955
+Edmonton,,Canada,62.27307636
+Regina,Saskatchewan,Canada,49.53495419
+Victoria,British Columbia,Canada,59.57722957
+Winnipeg,Manitoba,Canada,62.10080655
+Fredericton,New Brunswick,Canada,56.45527868
+Halifax,Nova Scotia,Canada,73.14828507
+Quebec City,Quebec,Canada,52.66731159
+Saskatoon,Saskatchewan,Canada,56.30351718
+Red Deer,Alberta,Canada,56.23674212
+Vancouver,British Columbia,Canada,59.41233175
+Calgary,,Canada,55.97449824
+Markham,Ontario,Canada,52.20595663
+Brampton,Ontario,Canada,48.32086218
+Mississauga,Ontario,Canada,52.20595663
+London,Ontario,Canada,52.20595663
+Hamilton,Ontario,Canada,58.76205351
+Kitchener,Ontario,Canada,42.44840948
+Kelowna,British Columbia,Canada,70.71843167
+Burnaby,British Columbia,Canada,50.99004347
+Surrey,British Columbia,Canada,55.36259586
+Kamloops,British Columbia,Canada,61.79728354
+Guelph,Ontario,Canada,46.37831496
+Waterloo,Ontario,Canada,47.80487307
+Coquitlam,British Columbia,Canada,53.17723024
+New Westminster,British Columbia,Canada,56.81950628
+Langley,British Columbia,Canada,67.19999301
+Concepcion,Biobio Region,Chile,35.05437708
+Santiago,Santiago Metropolitan Region,Chile,31.64581633
+Bogota,,Colombia,28.28040235
+Medellin,Antioquia Department,Colombia,30.01870421
+Cali,Valle del Cauca Department,Colombia,26.35817048
+Barranquilla,Atlantico Department,Colombia,28.79123237
+Bucaramanga,Santander Department,Colombia,24.1053354
+San Jose,San Jose Province,Costa Rica,57.40751805
+Heredia,Heredia Province,Costa Rica,41.66558629
+Zagreb,,Croatia,26.12267937
+Osijek,Osijek-Baranja County,Croatia,23.05038618
+Rijeka,Primorje-Gorski Kotar County,Croatia,24.71253283
+Split,Split-Dalmatia County,Croatia,28.85180753
+Dubrovnik,Dubrovnik-Neretva County,Croatia,54.88581591
+Pula,Istria County,Croatia,24.66754163
+Larnaca,Larnaca District,Cyprus,50.10165068
+Paphos,Paphos District,Cyprus,48.98828067
+Limassol,Limassol District,Cyprus,42.22853415
+Prague,,Czech Republic,20.90555493
+Ostrava,,Czech Republic,18.21108912
+Brno,,Czech Republic,18.28951008
+Plzen,,Czech Republic,16.41979363
+Santo Domingo,,Dominican Republic,45.02217132
+Quito,Pichincha Province,Ecuador,39.59090909
+Guayaquil,Guayas Province,Ecuador,47.9
+Cuenca,Azuay Province,Ecuador,44.4
+Cairo,Cairo Governorate,Egypt,16.99141098
+Alexandria,Alexandria Governorate,Egypt,13.7207638
+Giza,Giza Governorate,Egypt,51.79533382
+San Salvador,San Salvador Department,El Salvador,46.625
+Tallinn,Harju County,Estonia,25.7473953
+Helsinki,Uusimaa,Finland,24.02652493
+Turku,,Finland,22.99109081
+Espoo,Uusimaa,Finland,21.13176289
+Paris,Ile-de-France,France,29.12341566
+Lille,,France,29.78264791
+Grenoble,,France,20.78290695
+Strasbourg,,France,36.7412105
+Toulouse,,France,28.32784442
+Nice,,France,34.14334713
+Antibes,,France,24.43902184
+Tbilisi,,Georgia,15.6510989
+Batumi,Adjara,Georgia,14.49502878
+Berlin,,Germany,35.82708387
+Cologne,North Rhine-Westphalia,Germany,35.85051449
+Bonn,North Rhine-Westphalia,Germany,40.55847912
+Aachen,North Rhine-Westphalia,Germany,30.33933291
+Stuttgart,Baden-Wurttemberg,Germany,32.80159352
+Karlsruhe,Baden-Wurttemberg,Germany,37.60097957
+Hamburg,,Germany,34.9998998
+Dortmund,North Rhine-Westphalia,Germany,36.05092109
+Hanover,Lower Saxony,Germany,42.14900772
+Düsseldorf,North Rhine-Westphalia,Germany,36.37008716
+Munich,Bavaria,Germany,40.36037371
+Dresden,Saxony,Germany,48.61715733
+Frankfurt,Hesse,Germany,35.33426239
+Leipzig,Saxony,Germany,34.19636475
+Nuremberg,Bavaria,Germany,39.16734498
+Mannheim,Baden-Wurttemberg,Germany,34.06689572
+Accra,Greater Accra Region,Ghana,49.21374481
+Athens,Attica Region,Greece,36.25370577
+Thessaloniki,,Greece,35.11510429
+Heraklion,,Greece,34.37529922
+Corfu,,Greece,41.84670482
+Guatemala City,Guatemala Department,Guatemala,67.02751366
+Tegucigalpa,Francisco Morazan Department,Honduras,69.28571429
+Budapest,,Hungary,15.10396807
+Debrecen,Hajdu-Bihar County,Hungary,12.65587818
+Szeged,Csongrad-Csanad County,Hungary,15.56433565
+Reykjavik,,Iceland,67.09430067
+Ahmedabad,Gujarat,India,9.457178089
+Mumbai,Maharashtra,India,10.73938585
+Kolkata,West Bengal,India,9.266107885
+Chennai,Tamil Nadu,India,10.97082485
+Delhi,,India,10.77437519
+Hyderabad,Telangana,India,10.06657545
+Pune,Maharashtra,India,12.40140415
+Kochi,Kerala,India,10.95872229
+Surat,Gujarat,India,7.582550273
+Coimbatore,Tamil Nadu,India,10.97562831
+Vadodara,Gujarat,India,8.101484516
+Chandigarh,,India,15.2741343
+Lucknow,Uttar Pradesh,India,8.148355588
+Navi Mumbai,Maharashtra,India,14.60941584
+Jaipur,Rajasthan,India,11.41035448
+Indore,Madhya Pradesh,India,15.180914
+Patna,Bihar,India,12.9844255
+Bhopal,Madhya Pradesh,India,10.43498076
+Mangalore,Karnataka,India,7.904649802
+Thiruvananthapuram,,India,10.95872229
+Bhubaneswar,Odisha,India,9.431142821
+Guwahati,Assam,India,9.960260928
+Visakhapatnam,Andhra Pradesh,India,8.501311839
+Vijayawada,Andhra Pradesh,India,6.971518484
+Ludhiana,Punjab,India,8.232989184
+Thane,Maharashtra,India,11.06941646
+Noida,Uttar Pradesh,India,11.24392255
+Jakarta,,Indonesia,30.33544891
+Bandung,West Java,Indonesia,29.08710849
+Surabaya,East Java,Indonesia,30.19636263
+Tehran,Tehran Province,Iran,19.69846016
+Erbil,,Iraq,37.53678757
+Dublin,,Ireland,57.99371699
+Cork,,Ireland,49.24093002
+Galway,Connacht,Ireland,60.51961297
+Jerusalem,Jerusalem District,Israel,24.55529224
+Haifa,Haifa District,Israel,22.27107901
+Ramat Gan,Tel Aviv District,Israel,27.78367323
+Milan,Lombardy,Italy,30.94691484
+Trieste,Friuli-Venezia Giulia,Italy,31.11777743
+Bergamo,Lombardy,Italy,33.40110045
+Genoa,Liguria,Italy,33.75366763
+Bologna,Emilia-Romagna,Italy,32.80073709
+Cagliari,Sardinia,Italy,30.24655208
+Catania,Sicily,Italy,33.12275795
+Verona,Veneto,Italy,33.08299474
+Florence,Tuscany,Italy,35.02054775
+Naples,Campania,Italy,32.00938794
+Treviso,Veneto,Italy,29.10295731
+Tokyo,,Japan,41.90904706
+Amman,Amman Governorate,Jordan,44.61435677
+Almaty,,Kazakhstan,11.33617058
+Nairobi,,Kenya,59.87759585
+Kuwait City,,Kuwait,22.04038242
+Bishkek,,Kyrgyzstan,16.78901688
+Riga,,Latvia,17.50103472
+Beirut,Beirut Governorate,Lebanon,51.90322383
+Vilnius,,Lithuania,12.5949983
+Kaunas,,Lithuania,11.21163605
+Luxembourg,,Luxembourg,60.29326851
+Kuala Lumpur,,Malaysia,28.24521397
+Kota Kinabalu,Sabah,Malaysia,29.47520185
+Petaling Jaya,Selangor,Malaysia,27.72953572
+Male,Kaafu Atoll,Maldives,109.223301
+Mexico City,,Mexico,25.4507804
+Cancun,Quintana Roo,Mexico,24.82669514
+Guadalajara,Jalisco,Mexico,25.47853591
+Chihuahua City,Chihuahua,Mexico,25.79553217
+Monterrey,Nuevo Leon,Mexico,25.12621538
+Tijuana,Baja California,Mexico,21.91377004
+Zapopan,Jalisco,Mexico,23.63448676
+Merida,Yucatan,Mexico,25.56354622
+Hermosillo,Sonora,Mexico,23.80005622
+Podgorica,Podgorica Municipality,Montenegro,24.29170942
+Rabat,Rabat-Sale-Kenitra,Morocco,30.64030892
+Casablanca,Casablanca-Settat,Morocco,30.83672116
+Agadir,Souss-Massa,Morocco,25.39315602
+Windhoek,Khomas Region,Namibia,48.15933908
+Kathmandu,Bagmati,Nepal,17.34645016
+Wellington,Wellington Region,New Zealand,51.38433612
+Auckland,Auckland Region,New Zealand,49.58150132
+Christchurch,Canterbury Region,New Zealand,48.65527426
+Dunedin,Otago Region,New Zealand,45.84823921
+Managua,Managua Department,Nicaragua,62.54830347
+Lagos,Lagos,Nigeria,40.95307081
+Skopje,Greater Skopje,North Macedonia,20.38034409
+Oslo,,Norway,46.95818395
+Bergen,Vestland,Norway,50.66611461
+Muscat,Muscat Governorate,Oman,81.80593457
+Islamabad,Islamabad Capital Territory,Pakistan,20.61234884
+Karachi,Sindh,Pakistan,21.01337957
+Lahore,Punjab,Pakistan,18.85641832
+Rawalpindi,Punjab,Pakistan,24.24279526
+Faisalabad,Punjab,Pakistan,32.20295222
+Peshawar,Khyber Pakhtunkhwa,Pakistan,21.67358598
+Panama City,Panama Province,Panama,46.42761905
+Asuncion,Capital District,Paraguay,33.06433555
+Beijing,,People's Republic of China,13.59057347
+Hangzhou,Zhejiang,People's Republic of China,16.18259006
+Shanghai,,People's Republic of China,13.91749448
+Shenzhen,Guangdong,People's Republic of China,17.77632998
+Guangzhou,Guangdong,People's Republic of China,18.21417062
+Nanjing,Jiangsu,People's Republic of China,9.775383412
+Lima,Lima region,Peru,32.58150936
+Manila,Metro Manila,Philippines,52.99891615
+Quezon City,Metro Manila,Philippines,51.89639383
+Valenzuela,Metro Manila,Philippines,41.26206331
+Dumaguete,,Philippines,47.54525991
+Poznan,Greater Poland Voivodeship,Poland,14.30358122
+Warsaw,Masovian Voivodeship,Poland,13.71689023
+Gdynia,Pomeranian Voivodeship,Poland,12.54700107
+Szczecin,West Pomeranian Voivodeship,Poland,13.95853869
+Lodz,Lodz Voivodeship,Poland,12.21241437
+Katowice,Silesian Voivodeship,Poland,12.49681306
+Gdansk,Pomeranian Voivodeship,Poland,14.34906409
+Wroclaw,Lower Silesian Voivodeship,Poland,13.77854625
+Krakow,Lesser Poland Voivodeship,Poland,13.89727195
+Bydgoszcz,Kuyavian-Pomeranian Voivodeship,Poland,14.50433323
+Lisbon,Lisbon,Portugal,36.61054708
+Funchal,Madeira,Portugal,32.56607294
+Porto,,Portugal,35.32812128
+Coimbra,Coimbra,Portugal,34.23612797
+Braga,Braga,Portugal,39.87720271
+Doha,Ad Dawhah,Qatar,84.91870982
+Bucharest,,Romania,9.170031665
+Sibiu,Sibiu County,Romania,7.734262209
+Oradea,,Romania,8.994660495
+Cluj-Napoca,Cluj County,Romania,8.50768843
+Baia Mare,Maramureș County,Romania,9.763520476
+Moscow,,Russia,6.648988995
+Saint Petersburg,,Russia,7.296156484
+Novosibirsk,Novosibirsk Oblast,Russia,7.792680487
+Yekaterinburg,Sverdlovsk Oblast,Russia,7.19224668
+Samara,Samara Oblast,Russia,7.28583948
+Omsk,Omsk Oblast,Russia,7.840196832
+Kazan,Republic of Tatarstan,Russia,5.718731807
+Chelyabinsk,Chelyabinsk Oblast,Russia,6.989153939
+Ufa,Bashkortostan,Russia,5.975180313
+Volgograd,Volgograd Oblast,Russia,5.701961332
+Perm,Perm Krai,Russia,8.374755707
+Krasnoyarsk,Krasnoyarsk Krai,Russia,4.704118099
+Vladivostok,Primorsky Krai,Russia,8.891495952
+Tomsk,Tomsk Oblast,Russia,6.323993477
+Tolyatti,Samara Oblast,Russia,7.19097394
+Kaliningrad,Kaliningrad Oblast,Russia,6.200882949
+Voronezh,Voronezh Oblast,Russia,4.989216166
+Krasnodar,Krasnodar Krai,Russia,7.588360863
+Saratov,Saratov Oblast,Russia,6.652288221
+Izhevsk,Udmurt Republic,Russia,5.958549592
+Tyumen,Tyumen Oblast,Russia,7.227235988
+Barnaul,Altai Krai,Russia,7.309156824
+Kemerovo,Kemerovo Oblast,Russia,7.178246553
+Irkutsk,Irkutsk Oblast,Russia,7.553316902
+Simferopol,Autonomous Republic of Crimea,Russia,5.709145953
+Riyadh,Riyadh Province,Saudi Arabia,61.34533607
+Jeddah,Mecca Province,Saudi Arabia,69.85091506
+Jubail,Eastern Province,Saudi Arabia,52.15832134
+Belgrade,Belgrade District,Serbia,22.75306851
+Novi Sad,,Serbia,23.31020158
+Nis,Nisava District,Serbia,16.52268328
+Singapore,,Singapore,31.78816963
+Bratislava,Bratislava Region,Slovakia,16.8861119
+Ljubljana,Ljubljana City Municipality,Slovenia,38.47806772
+Maribor,Maribor City Municipality,Slovenia,40.45630879
+Pretoria,Gauteng,South Africa,50.62991972
+Cape Town,Western Cape,South Africa,51.87507835
+Durban,KwaZulu-Natal,South Africa,53.26160184
+Johannesburg,Gauteng,South Africa,54.41439974
+Port Elizabeth,Eastern Cape,South Africa,56.76208105
+Seoul,,South Africa,21.39146759
+Barcelona,Catalonia,Spain,45.78888164
+Madrid,Community of Madrid,Spain,46.8637889
+Seville,Andalusia,Spain,38.78238886
+Vigo,Galicia,Spain,46.26623982
+Granada,Andalusia,Spain,34.51447047
+Valencia,Community of Valencia,Spain,46.26400341
+Palma,Balearic Islands,Spain,54.27678824
+Malaga,Andalusia,Spain,49.54496567
+Zaragoza,Aragon,Spain,31.84238243
+Colombo,Western Province,Sri Lanka,17.42316771
+Stockholm,Stockholm County,Sweden,28.35411524
+Gothenburg,Vastra Gotaland County,Sweden,33.90169945
+Geneva,Canton of Geneva,Switzerland,54.35653143
+Zurich,Canton of Zurich,Switzerland,60.53832776
+Basel,,Switzerland,62.91479382
+Lausanne,Canton of Vaud,Switzerland,63.09272028
+Taipei,,Taiwan,20.12138309
+Dar es Salaam,Dar es Salaam Region,Tanzania,72.66562966
+Bangkok,,Thailand,20.33956243
+Chiang Mai,Chiang Mai,Thailand,20.0813346
+Pattaya,Chon Buri,Thailand,22.15159332
+Phuket,Phuket,Thailand,20.0813346
+Nassau,,The Bahamas,51.2475
+Port of Spain,,Trinidad and Tobago,49.65536251
+Tunis,Tunis Governorate,Tunisia,15.19633432
+Ankara,Ankara Province,Turkey,15.47619298
+Antalya,Antalya Province,Turkey,15.02928675
+Izmir,Izmir Province,Turkey,14.83571131
+Adana,Adana Province,Turkey,13.21989683
+Bursa,Bursa Province,Turkey,16.08420781
+Kayseri,Kayseri Province,Turkey,15.48882282
+Konya,Konya Province,Turkey,16.15765168
+Samsun,Samsun Province,Turkey,14.26909499
+Kocaeli,Kocaeli Province,Turkey,16.11259911
+Kampala,,Uganda,69.06402475
+Odessa,Odessa Oblast,Ukraine,6.336619598
+Lviv,Lviv Oblast,Ukraine,5.043278731
+Mykolaiv,Mykolaiv Oblast,Ukraine,4.371530539
+Kharkiv,Kharkiv Oblast,Ukraine,6.039244565
+Dnipro,Dnipropetrovsk Oblast,Ukraine,5.343140764
+Ivano-Frankivsk,Ivano-Frankivsk Oblast,Ukraine,5.270639657
+Ternopil,Ternopil Oblast,Ukraine,3.896393053
+Sumy,Sumy Oblast,Ukraine,4.216511726
+Vinnytsia,Vinnytsia Oblast,Ukraine,4.568984711
+Dubai,Emirate of Dubai,United Arab Emirates,96.85059349
+Abu Dhabi,Emirate of Abu Dhabi,United Arab Emirates,101.0239249
+Al Ain,Emirate of Abu Dhabi,United Arab Emirates,112.9403257
+Sharjah,Emirate of Sharjah,United Arab Emirates,99.14720135
+Ajman,Emirate of Ajman,United Arab Emirates,91.85451378
+London,England,United Kingdom,38.7237178
+Cambridge,England,United Kingdom,45.32727036
+Birmingham,England,United Kingdom,34.32722694
+Glasgow,Scotland,United Kingdom,39.08247656
+Belfast,Northern Ireland,United Kingdom,37.40390693
+Cardiff,Wales,United Kingdom,41.06884666
+Manchester,England,United Kingdom,38.21654115
+Bradford,England,United Kingdom,31.95868843
+Bristol,England,United Kingdom,39.05667955
+Edinburgh,Scotland,United Kingdom,38.2483731
+Liverpool,England,United Kingdom,37.56045272
+Oxford,England,United Kingdom,45.40274505
+Aberdeen,Scotland,United Kingdom,32.40104988
+Leeds,England,United Kingdom,37.1477005
+Nottingham,England,United Kingdom,35.27999666
+Sheffield,England,United Kingdom,35.49669158
+Plymouth,England,United Kingdom,31.57554542
+Leicester,England,United Kingdom,37.14522398
+Norwich,England,United Kingdom,34.67118713
+Brighton,England,United Kingdom,37.1477005
+Exeter,England,United Kingdom,36.40474649
+Reading,England,United Kingdom,44.57724059
+Ipswich,England,United Kingdom,38.63801441
+"Washington, D.C.",District of Columbia,United States of America,60.59045455
+San Francisco,California,United States of America,68.98882353
+Los Angeles,California,United States of America,66.69022222
+Alexandria,Virginia,United States of America,67.49833333
+Boston,Massachusetts,United States of America,66.45192308
+San Antonio,Texas,United States of America,66.89473684
+Chicago,Illinois,United States of America,65.1655814
+Pittsburgh,Pennsylvania,United States of America,71.098
+Philadelphia,Pennsylvania,United States of America,58.47058824
+Seattle,Washington,United States of America,64.46238095
+Baltimore,Maryland,United States of America,68.14833333
+Portland,Oregon,United States of America,65.04853659
+Indianapolis,Indiana,United States of America,67.63181818
+Miami,Florida,United States of America,67.45791667
+Detroit,Michigan,United States of America,75
+San Diego,California,United States of America,62.93965517
+San Jose,California,United States of America,58.77777778
+Denver,Colorado,United States of America,62.75575758
+Houston,Texas,United States of America,63
+Phoenix,Arizona,United States of America,76.5
+Dallas,Texas,United States of America,65.3292
+Fort Worth,Texas,United States of America,72
+Austin,Texas,United States of America,63.00606061
+El Paso,Texas,United States of America,75.71428571
+Memphis,Tennessee,United States of America,71.83333333
+Charlotte,North Carolina,United States of America,61.76846154
+Jacksonville,Florida,United States of America,80
+Long Beach,California,United States of America,67.4975
+Oakland,California,United States of America,65.81818182
+Sacramento,California,United States of America,58.895
+Honolulu,Hawaii,United States of America,63.14214286
+Brooklyn,New York,United States of America,68.33333333
+Tucson,Arizona,United States of America,70.57142857
+Nashville,Tennessee,United States of America,71.99583333
+Salt Lake City,Utah,United States of America,63.41176471
+Atlanta,Georgia,United States of America,65.57058824
+Las Vegas,Nevada,United States of America,76.09
+Albany,New York,United States of America,68
+Jersey City,New Jersey,United States of America,59.16666667
+Baton Rouge,Louisiana,United States of America,66.28428571
+Little Rock,Arkansas,United States of America,55.83333333
+New Orleans,Louisiana,United States of America,73.65833333
+Dayton,Ohio,United States of America,61.65666667
+Albuquerque,New Mexico,United States of America,76.11111111
+Oklahoma City,Oklahoma,United States of America,63.79111111
+Boise,Idaho,United States of America,63.91339781
+Minneapolis,Minnesota,United States of America,63.0625
+Tallahassee,Florida,United States of America,74.16666667
+Cleveland,Ohio,United States of America,61.665
+Milwaukee,Wisconsin,United States of America,63.88777778
+Santa Fe,New Mexico,United States of America,75
+Anchorage,Alaska,United States of America,109.5533333
+Des Moines,Iowa,United States of America,81.994
+Buffalo,New York,United States of America,73.18181818
+Raleigh,North Carolina,United States of America,58.16583333
+Kansas City,Missouri,United States of America,62.58333333
+Cincinnati,Ohio,United States of America,57.45454545
+Omaha,Nebraska,United States of America,81.6625
+Richmond,Virginia,United States of America,62.55555556
+Louisville,Kentucky,United States of America,52.6
+Madison,Wisconsin,United States of America,57.22111111
+Salem,Oregon,United States of America,69.8
+Tulsa,Oklahoma,United States of America,69
+San Luis Obispo,California,United States of America,64.2
+Cambridge,Massachusetts,United States of America,67.4975
+Rochester,New York,United States of America,63
+Irvine,California,United States of America,70.99571429
+Fremont,California,United States of America,65.71428571
+Scottsdale,Arizona,United States of America,81.25
+Reno,Nevada,United States of America,59.84615385
+Durham,North Carolina,United States of America,67
+Orlando,Florida,United States of America,67.0792
+Greensboro,North Carolina,United States of America,61.998
+Lexington,Kentucky,United States of America,74.9975
+Corpus Christi,Texas,United States of America,71.25
+Tampa,Florida,United States of America,62.99846154
+Colorado Springs,Colorado,United States of America,68.33
+Wichita,Kansas,United States of America,61.1225
+Lubbock,Texas,United States of America,63.75
+Sioux Falls,South Dakota,United States of America,66.4
+Hanover,New Hampshire,United States of America,74.77555556
+Santa Cruz,California,United States of America,76
+Santa Clara,California,United States of America,60
+Santa Barbara,California,United States of America,95.71428571
+Akron,Ohio,United States of America,60.85666667
+West Palm Beach,Florida,United States of America,62.8
+Fort Lauderdale,Florida,United States of America,51.75
+Kalamazoo,Michigan,United States of America,61.87375
+Eugene,Oregon,United States of America,67.595
+Grand Rapids,Michigan,United States of America,66
+Knoxville,Tennessee,United States of America,69.875
+Chattanooga,Tennessee,United States of America,65.99875
+Spokane,Washington,United States of America,59.8675
+Boulder,Colorado,United States of America,48.998
+Tacoma,Washington,United States of America,64.8
+Sunnyvale,California,United States of America,44.35
+Santa Rosa,California,United States of America,99.33333333
+Bellevue,Washington,United States of America,58.57142857
+Rockville,Maryland,United States of America,46.2475
+Bellingham,Washington,United States of America,75
+Berkeley,California,United States of America,66.996
+Ann Arbor,Michigan,United States of America,64.28428571
+Daytona Beach,Florida,United States of America,56.25
+Fort Collins,Colorado,United States of America,48.3
+Overland Park,Kansas,United States of America,68.75
+Fort Myers,Florida,United States of America,55
+Asheville,North Carolina,United States of America,60
+Bend,Oregon,United States of America,68.16666667
+Melbourne,Florida,United States of America,64.16666667
+Arlington,Virginia,United States of America,58.875
+Montevideo,Montevideo Department,Uruguay,31.76032558
+Punta del Este,Maldonado Department,Uruguay,32.92032553
+Tashkent,,Uzbekistan,33.55571429
+Caracas,Capital District,Venezuela,9.1125
+Ho Chi Minh City,,Vietnam,11.21258118
+Hanoi,,Vietnam,9.935254315
+Harare,,Zimbabwe,104.8333333
+New York City,New York,United States of America,66.44139535
